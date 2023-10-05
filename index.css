@@ -3,3 +3,40 @@ html, body {
     padding: 0;
 }
 
+header {
+    border-bottom: 2px solid 
+}
+
+main {
+    margin: 10px;
+}
+
+.container {
+    width: 375px;
+}
+
+.title-img {
+    width: 127px;
+    height: 33,02px;
+    margin: 15px;
+    border: 1px solid red; 
+}
+
+.avatar {
+    height: 34px;
+    width: 34px;
+    border-radius: 25px;
+}
+
+.user-info {
+    display: inline-block ;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.post-img {
+    width: 100%;
+}
+
