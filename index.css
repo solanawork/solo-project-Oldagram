@@ -78,13 +78,15 @@ header {
 
 /* ======= Likes and Comments Styles ======= */
 
+.comment-section {
+    margin-left: 13px;
+    margin-bottom: 16px; 
+}
 .likes {
     display: block;
-    margin: 12px 13px;
+    margin: 12px 0px;
 }
 
-.comment {
-    margin-left: 13px;
-}
+
 
 
